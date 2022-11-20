@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #3",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "cbd16c56d342fb4d0c188287e3cf0c6b55be0d9d",
+  "edition": 3,
+  "date": 1668984772292,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tirz"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Pink"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Thus 2"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 6"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Tani Indigo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Xerx Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Meli 2"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Aran"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "None6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

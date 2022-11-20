@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #5",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "30f674a28fc363957fbd887890b69b70e72f1bd1",
+  "edition": 5,
+  "date": 1668984775695,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tirz"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Light Blue"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Chim 1"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 4"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Tani Indigo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Xerx Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pomo Pink"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "None5"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "None6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #10",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/10.png",
+  "dna": "08a226cee81519940bca86a9b9b1c024068d797d",
+  "edition": 10,
+  "date": 1668984784275,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Azar"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Pink"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Indigo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mura 2"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 4"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Maev Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Arth"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Minu Purple"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Yitz"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "None6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

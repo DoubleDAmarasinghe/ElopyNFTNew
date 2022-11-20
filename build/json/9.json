@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #9",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "dna": "7bdb7b31edc54b41e3cf3cebf658be1d4b687318",
+  "edition": 9,
+  "date": 1668984782570,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tirz"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Light Blue"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sena 1"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 3"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Maev Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Xerx Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Minu Brown"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Cetu"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "None6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

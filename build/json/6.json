@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #6",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "b7816cc369eed1d759477315f5e1b6b7306c0f36",
+  "edition": 6,
+  "date": 1668984777369,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Azar"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Purple"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sena 2"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 6"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Tani Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Arth"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Minu Pink"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Yitz"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "Riog Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

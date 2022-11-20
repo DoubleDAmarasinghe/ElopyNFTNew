@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #13",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "dna": "94676464ec9ff6ca677224e3795687104aa8c667",
+  "edition": 13,
+  "date": 1668984789274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tirz"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Purple"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Thus 1"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 5"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Maev Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None3"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Meli 2"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Hiel"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "None6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #11",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "dna": "7a68054a059f8fc5bac3b4d576d4a2d9a35b6eb9",
+  "edition": 11,
+  "date": 1668984786005,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Azar"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Light Blue"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Rato 2"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 5"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Timo Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Morc"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Minu Black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Imon"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "Riog Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

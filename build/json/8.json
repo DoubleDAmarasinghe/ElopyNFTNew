@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #8",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "4dbefa215e00489b18c981933a0d16e32f683eb0",
+  "edition": 8,
+  "date": 1668984780825,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tirz"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Purple"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Chim 2"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 3"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Timo Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Xerx Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Meli 4"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Aran"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "None6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

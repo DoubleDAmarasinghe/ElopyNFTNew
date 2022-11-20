@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #2",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "3b4b3f7111ea91d1b200787a21044dd4a4d8caab",
+  "edition": 2,
+  "date": 1668984770623,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tirz"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Red"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Noac 2"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 1"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Timo Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Xerx Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Minu Purple"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Aran"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "Riog Black"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

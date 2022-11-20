@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #18",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "dna": "8a248518def3b678a67d13412b98e198bf9e2fd2",
+  "edition": 18,
+  "date": 1668984797078,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Azar"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Light Blue"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leui 1"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None1"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Tani Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None3"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None4"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Rael"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "Riog Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

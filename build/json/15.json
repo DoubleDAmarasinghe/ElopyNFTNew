@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #15",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "14fe0fbfbfd64968d15f05fe889d8f709fe8ae7f",
+  "edition": 15,
+  "date": 1668984792524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Azar"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Blue"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tole 2"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 3"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Maev Indigo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Xerx Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None4"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Imon"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "None6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

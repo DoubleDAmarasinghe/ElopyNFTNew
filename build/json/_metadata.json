@@ -1,0 +1,971 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "ab8a524bdbd9df8a0fa754484a90552a48c14698",
+    "edition": 1,
+    "date": 1668984768922,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tirz"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Auro"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Leui 2"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 6"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Timo Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pomo Green"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Krek"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "3b4b3f7111ea91d1b200787a21044dd4a4d8caab",
+    "edition": 2,
+    "date": 1668984770623,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tirz"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Red"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Noac 2"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 1"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Timo Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Minu Purple"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Aran"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "Riog Black"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "cbd16c56d342fb4d0c188287e3cf0c6b55be0d9d",
+    "edition": 3,
+    "date": 1668984772292,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tirz"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Pink"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Thus 2"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 6"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Tani Indigo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Meli 2"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Aran"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "bc52a994d189cc2ee48f863c5fa543215ab3c129",
+    "edition": 4,
+    "date": 1668984773964,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Exan 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 1"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Tani Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Meli 3"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "None5"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "30f674a28fc363957fbd887890b69b70e72f1bd1",
+    "edition": 5,
+    "date": 1668984775695,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tirz"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Light Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Chim 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 4"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Tani Indigo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pomo Pink"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "None5"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "b7816cc369eed1d759477315f5e1b6b7306c0f36",
+    "edition": 6,
+    "date": 1668984777369,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Purple"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Sena 2"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 6"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Tani Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Arth"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Minu Pink"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Yitz"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "Riog Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "9df86e90c8c3094cfe9dfec2adb1902ac5442854",
+    "edition": 7,
+    "date": 1668984779123,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tirz"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Auro"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Mura 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 4"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "None2"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Meli 1"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Exan"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "4dbefa215e00489b18c981933a0d16e32f683eb0",
+    "edition": 8,
+    "date": 1668984780825,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tirz"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Purple"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Chim 2"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 3"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Timo Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Meli 4"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Aran"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "7bdb7b31edc54b41e3cf3cebf658be1d4b687318",
+    "edition": 9,
+    "date": 1668984782570,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tirz"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Light Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Sena 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 3"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Maev Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Minu Brown"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Cetu"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "08a226cee81519940bca86a9b9b1c024068d797d",
+    "edition": 10,
+    "date": 1668984784275,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Pink"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Indigo"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Mura 2"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 4"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Maev Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Arth"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Minu Purple"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Yitz"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "7a68054a059f8fc5bac3b4d576d4a2d9a35b6eb9",
+    "edition": 11,
+    "date": 1668984786005,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Light Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Rato 2"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 5"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Timo Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Morc"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Minu Black"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Imon"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "Riog Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "86a9857c03030f9af234db82fb5b4517397fc2d2",
+    "edition": 12,
+    "date": 1668984787716,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tirz"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Red"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tole 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 1"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Tani Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Meli 5"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Yitz"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "94676464ec9ff6ca677224e3795687104aa8c667",
+    "edition": 13,
+    "date": 1668984789274,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tirz"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Purple"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Thus 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 5"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Maev Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "None3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Meli 2"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Hiel"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "332882e4590e3c56994a612ce57b230d4ba60d8f",
+    "edition": 14,
+    "date": 1668984790965,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Indigo"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Exan 2"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 1"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Maev Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Morc"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Minu Brown"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Hiel"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "14fe0fbfbfd64968d15f05fe889d8f709fe8ae7f",
+    "edition": 15,
+    "date": 1668984792524,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tole 2"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 3"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Maev Indigo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None4"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Imon"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "0cb3aca581dc1c2eb485c6b96167a3e8b08ddcf2",
+    "edition": 16,
+    "date": 1668984793975,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Red"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Indigo"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Noac 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 6"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Maev Indigo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "None3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None4"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "None5"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "None6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "37d167f935e5969b8a186c90f93ec738b88bbae1",
+    "edition": 17,
+    "date": 1668984795621,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Red"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Kayi 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "None1"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Maev Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Meli 5"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Oses"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "Riog Brown"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "8a248518def3b678a67d13412b98e198bf9e2fd2",
+    "edition": 18,
+    "date": 1668984797078,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Light Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Leui 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "None1"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Tani Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "None3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None4"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Rael"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "Riog Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "dba10f7ea173de94d27a2b817b4aac9a832c9746",
+    "edition": 19,
+    "date": 1668984798757,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azar"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Adin Pink"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Hest Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Rato 1"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Eugr 3"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Tani Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Xerx Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pomo Blue"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Rael"
+      },
+      {
+        "trait_type": "Special Feature",
+        "value": "Riog Black"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #7",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "9df86e90c8c3094cfe9dfec2adb1902ac5442854",
+  "edition": 7,
+  "date": 1668984779123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tirz"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Auro"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mura 1"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Eugr 4"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "None2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Xerx Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Meli 1"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Exan"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "None6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

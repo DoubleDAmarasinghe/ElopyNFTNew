@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #17",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "dna": "37d167f935e5969b8a186c90f93ec738b88bbae1",
+  "edition": 17,
+  "date": 1668984795621,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Azar"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Adin Red"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Hest Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Kayi 1"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "None1"
+    },
+    {
+      "trait_type": "Hand Accessory",
+      "value": "Maev Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Xerx Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Meli 5"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Oses"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "Riog Brown"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
